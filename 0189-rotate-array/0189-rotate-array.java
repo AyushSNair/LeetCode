@@ -29,7 +29,9 @@ class Solution {
             for (int num : nums) {System.out.print(num + " ");}
             return;}
         k = k % n;
-        if (k > 0) {rotate(nums, k);}
+        if (k > 0) {
+            rotate(nums, k);
+        }
         System.out.print("After Rotating the k elements to right: ");
         for (int num : nums) {
             System.out.print(num + " ");}}}
