@@ -7,6 +7,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,5 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
