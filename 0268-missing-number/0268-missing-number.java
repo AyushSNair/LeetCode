@@ -15,22 +15,15 @@ class Solution {
         int n = nums.length;
         int sumOfNum = 0;
         int sum = 0;
-        int flag = 0;
+        
+        
         for(int i = 0; i<n ; i++){
-            sum = sum+ nums[i];
+            sum = sum + nums[i];
         }
         sumOfNum = (n*(n+1))/2;
-        if(sumOfNum - sum != 0){
-            flag = 1;
-        }
-        else{
-            flag = 0;
-        }
-        if(flag == 1){
-            return (sumOfNum-sum);
-        }
-        else{
-            return flag;
-        }
+
+        return(sumOfNum - sum);
+        
+      
     }
 }
