@@ -25,6 +25,7 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,9 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
