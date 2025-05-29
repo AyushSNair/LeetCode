@@ -20,6 +20,7 @@ Repo for all Leetcode problems solved
 | [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AyushSNair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +109,8 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
