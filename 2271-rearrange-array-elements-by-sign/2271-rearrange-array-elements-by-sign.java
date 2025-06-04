@@ -18,14 +18,11 @@ class Solution {
             }
         }      
 
-        int j = 0;
-        k = 1;
+        
         for (int i = 0; i < arr1.length; i++){
             
-            arr3[j] = arr1[i];
-            arr3[k] = arr2[i];
-            j = j +2;
-            k = k+2;
+            arr3[i*2 ] = arr1[i];
+            arr3[i*2 + 1] = arr2[i];
         }
 
         return arr3;
