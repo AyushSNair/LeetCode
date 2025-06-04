@@ -6,6 +6,7 @@ Repo for all Leetcode problems solved
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyushSNair/LeetCode/tree/master/0035-search-insert-position) |
@@ -32,6 +33,7 @@ Repo for all Leetcode problems solved
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
