@@ -10,6 +10,7 @@ Repo for all Leetcode problems solved
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyushSNair/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ Repo for all Leetcode problems solved
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -122,6 +124,7 @@ Repo for all Leetcode problems solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
