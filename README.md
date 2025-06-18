@@ -146,5 +146,10 @@ Repo for all Leetcode problems solved
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
