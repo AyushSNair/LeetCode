@@ -175,5 +175,14 @@ Repo for all Leetcode problems solved
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
