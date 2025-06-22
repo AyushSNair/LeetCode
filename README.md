@@ -26,6 +26,7 @@ Repo for all Leetcode problems solved
 | [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AyushSNair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -183,6 +184,7 @@ Repo for all Leetcode problems solved
 | [0232-implement-queue-using-stacks](https://github.com/AyushSNair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -197,4 +199,5 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
