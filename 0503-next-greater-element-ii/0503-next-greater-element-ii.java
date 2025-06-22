@@ -2,32 +2,24 @@ import java.util.Stack;
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int [] arr = new int[nums.length];
-        boolean flag = false;
-        for(int i= 0; i< nums.length; i++){
-            flag = false;
-            for(int j = i+1; j<nums.length; j++){
-                
-                if(nums[j] > nums[i]){
-                    arr[i] = nums[j];
-                    flag = true;
-                    break;
+        Stack<Integer> stk = new Stack<Integer>();
+        int n = nums.length;
+        int m = (2*n)-1;
+        for(int i = m; i >=0 ; i--){
+            while(!stk.empty() && stk.peek() <= nums[i%n]){
+                stk.pop();
+            }
+
+            if(i < n){
+                if(stk.empty()){
+                    arr[i] = -1; 
                 }
-            }    
-            if(flag == false){
-                for(int j = 0; j<i; j++){
-                    if(nums[j] > nums[i]){
-                        arr[i] = nums[j];
-                        flag = true;
-                        break;                           
-                    }
+                else{
+                    arr[i] = stk.peek();
                 }
-                if(flag == false){
-                    arr[i] = -1;
-                }
-                
-                }
-            
+            }
+            stk.push(nums[i%n]);
         }
-        return arr;
+    return arr;
     }
 }
