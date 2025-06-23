@@ -61,6 +61,7 @@ Repo for all Leetcode problems solved
 | [0128-longest-consecutive-sequence](https://github.com/AyushSNair/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AyushSNair/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushSNair/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushSNair/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AyushSNair/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -164,6 +165,7 @@ Repo for all Leetcode problems solved
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushSNair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/AyushSNair/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushSNair/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushSNair/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -188,6 +190,7 @@ Repo for all Leetcode problems solved
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushSNair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -200,4 +203,8 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
