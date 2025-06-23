@@ -1,14 +1,12 @@
-import java.util.*;
 class LRUCache {
-
-    class Node {
-        int key, value;
+    class Node{
+        int key, val;
         Node prev, next;
-        Node(int k, int v) {
+        Node(int k, int v){
             key = k;
-            value = v;
+            val = v;
         }
-    }    
+    }
     HashMap<Integer, Node> mpp = new HashMap<Integer, Node>();
     int cap = 0;
     Node head = new Node(0,0);
@@ -24,7 +22,7 @@ class LRUCache {
             Node node = mpp.get(key);
             remove(node);
             insert(node);
-            return node.value;
+            return node.val;
         }
         else{
             return -1;
@@ -35,11 +33,12 @@ class LRUCache {
         if(mpp.containsKey(key)){
             remove(mpp.get(key));
         }
+
         if(mpp.size() == cap){
             remove(tail.prev);
         }
-        insert(new Node(key, value));
 
+        insert(new Node(key,value));
     }
 
     public void remove(Node node){
@@ -51,10 +50,10 @@ class LRUCache {
     public void insert(Node node){
         mpp.put(node.key, node);
         node.next = head.next;
-        node.prev = head;
-        head.next = node;
         node.next.prev = node;
-    }   
+        head.next = node;
+        node.prev = head;
+    }
 }
 
 /**
