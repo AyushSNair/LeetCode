@@ -33,6 +33,7 @@ Repo for all Leetcode problems solved
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0890-lemonade-change) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Math
@@ -135,6 +136,7 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0402-remove-k-digits](https://github.com/AyushSNair/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
