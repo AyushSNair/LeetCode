@@ -51,6 +51,7 @@ Repo for all Leetcode problems solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AyushSNair/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushSNair/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +127,7 @@ Repo for all Leetcode problems solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushSNair/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSNair/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +135,7 @@ Repo for all Leetcode problems solved
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AyushSNair/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
