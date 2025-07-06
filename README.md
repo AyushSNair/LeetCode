@@ -44,6 +44,7 @@ Repo for all Leetcode problems solved
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushSNair/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushSNair/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AyushSNair/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -136,6 +138,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AyushSNair/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
