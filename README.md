@@ -49,6 +49,7 @@ Repo for all Leetcode problems solved
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ Repo for all Leetcode problems solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSNair/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Repo for all Leetcode problems solved
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushSNair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -252,4 +255,8 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
