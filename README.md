@@ -21,6 +21,7 @@ Repo for all Leetcode problems solved
 | [0057-insert-interval](https://github.com/AyushSNair/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushSNair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSNair/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushSNair/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -106,6 +107,7 @@ Repo for all Leetcode problems solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -261,4 +263,8 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
