@@ -58,6 +58,7 @@ Repo for all Leetcode problems solved
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -173,6 +174,7 @@ Repo for all Leetcode problems solved
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0800-letter-case-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AyushSNair/LeetCode/tree/master/0812-rotate-string) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
