@@ -1,30 +1,31 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if(nums.length == 0){
-            return 0;
-        }
-        
-
         Arrays.sort(nums);
-        Stack<Integer> stk = new Stack<Integer>();
-        int count = 1;
-        int maxCount = 1;
-        for(int i = 0 ; i < nums.length; i++){
-            if(!stk.empty()){
-                if(nums[i] - stk.peek() == 1){
-                    count++;
-                    if(count > maxCount){
-                        maxCount = count;
-                    }
-                }
-                else if(nums[i] == stk.peek()){
-                    continue;
-                }
-                else{
-                    count = 1;
+        int count = 0;
+        int maxCount = 0;
+        Stack<Integer> stk = new Stack<>();
+        for(int i = 0; i < nums.length; i++){
+            if(!stk.empty() && nums[i] - stk.peek() == 1){
+                stk.push(nums[i]);
+                count++;
+                if(count > maxCount){
+                    maxCount = count;
                 }
             }
-            stk.push(nums[i]);
+            else if(!stk.empty() && nums[i] == stk.peek()){
+                continue;
+            }
+            else{
+                while(!stk.empty()){
+                    stk.pop();
+                }
+                stk.push(nums[i]);
+                count = 1;
+            }
+
+        }
+        if(count > maxCount){
+            maxCount = count;
         }
         return maxCount;
     }
