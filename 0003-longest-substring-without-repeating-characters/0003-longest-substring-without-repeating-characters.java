@@ -13,8 +13,10 @@ class Solution {
                 start = start + 1;
             }
             hmap.put(s.charAt(i),1);
-            maxCount = Math.max(maxCount, i - start + 1);
-            
+            count = i - start + 1;
+            if(count > maxCount){
+                maxCount = count;
+            }
         }
         return maxCount;
     }
