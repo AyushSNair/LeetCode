@@ -1,20 +1,25 @@
 class Solution {
     public long subArrayRanges(int[] nums) {
+        int min = 0;
+        int max = 0;
+        int n = nums.length;
+        int diff = 0;
         long result = 0;
-        for(int i = 0; i < nums.length; i++){
-            int min = nums[i];
-            int max = nums[i];
-            for(int j = i; j < nums.length; j++){
-                if(nums[j] > max){
-                    max = nums[j];
-                }
+        for(int i = 0; i < n; i++){
+            min = nums[i];
+            max = nums[i];
+            diff = 0;
+            for(int j = i; j < n; j ++){
+                diff = 0;
                 if(nums[j] < min){
                     min = nums[j];
                 }
-
-                result += max - min;
+                if(nums[j] > max){
+                    max = nums[j];
+                }
+                diff = max - min;
+                result += diff; 
             }
-           
         }
         return result;
     }
