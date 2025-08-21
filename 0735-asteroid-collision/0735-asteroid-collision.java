@@ -1,36 +1,53 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Stack<Integer> stk = new Stack<Integer>();
+        Stack<Integer> stk = new Stack<>();
         int n = asteroids.length;
-        boolean flag = false;
-        for(int i = n-1; i >=0; i--){
-            flag = false;
-            while(!stk.isEmpty() && stk.peek() < 0 && asteroids[i] > 0){
-                if(stk.peek() + asteroids[i] > 0){
+        boolean destroyed = false;
+        for(int i = 0; i < n; i++){
+            int digit = asteroids[i];
+            destroyed = false;
+            if(digit > 0){
+                stk.push(digit);
+                continue;
+            }
+            if(!stk.empty() && stk.peek() < 0 && digit < 0){
+                stk.push(digit);
+                continue;
+            }
+
+            if(digit < 0){
+                while(!stk.empty() && stk.peek() > 0 && stk.peek() + digit < 0){
                     stk.pop();
                 }
-                else if(stk.peek() + asteroids[i] == 0){
+
+                while(!stk.empty() && stk.peek() > 0 && stk.peek() + digit > 0){
+                    break;
+                }
+
+                while(!stk.empty() && stk.peek() == -digit){
                     stk.pop();
-                    flag = true;
+                    destroyed =true;
                     break;
                 }
-                else{
-                    flag = true;
-                    break;
+
+                if(stk.empty() || stk.peek() < 0){
+                    if(destroyed == false){
+                        stk.push(digit);
+                    }
+                    
                 }
             }
-            if(flag == false){
-                stk.push(asteroids[i]);
-            }
-            
         }
 
-        int s = stk.size();
-        int [] arr = new int[s];
-        for(int i = 0; i < s; i++){
-            arr[i] = stk.pop();
+        if(stk.empty()){
+            return new int[0];
+        }
+        
+        int[] result = new int[stk.size()];
+        for(int i = 0; i<stk.size(); i++){
+            result[i] = stk.get(i);
         }
 
-        return arr;
+        return result;
     }
 }
