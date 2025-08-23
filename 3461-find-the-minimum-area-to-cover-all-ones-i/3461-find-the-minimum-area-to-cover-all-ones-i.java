@@ -23,10 +23,7 @@ class Solution {
                 }
             }
         }
-
-        int num1 = rightCol - lefCol + 1;
-        int num2  = lowRow - upRow + 1;
-
-        return num1 * num2;
+    
+        return ((rightCol - lefCol + 1) * (lowRow - upRow + 1));
     }
 }
