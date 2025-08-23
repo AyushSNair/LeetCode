@@ -1,26 +1,31 @@
 class Solution {
     public String countAndSay(int n) {
-        if (n == 1) return "1";
-        
-        String prev = "1";
-        
-        for (int i = 2; i <= n; i++) {
-            StringBuilder sb = new StringBuilder();
-            int count = 1;
-            
-            for (int j = 1; j <= prev.length(); j++) {
-                if (j < prev.length() && prev.charAt(j) == prev.charAt(j - 1)) {
-                    count++;
-                } else {
-                    sb.append(count);
-                    sb.append(prev.charAt(j - 1));
-                    count = 1;
-                }
-            }
-            
-            prev = sb.toString();
+        String s = "1";
+        for(int i = 1; i < n; i++){
+            s = cnsFunction(s);
         }
-        
-        return prev;
+        return s;
+    }
+
+    public String cnsFunction(String s){
+        StringBuilder sb = new StringBuilder();
+        int count = 1;
+        char previous = s.charAt(0);
+
+        for(int i = 1; i < s.length(); i++){
+            if(s.charAt(i) == previous){
+                count++;
+            }
+            else{
+                sb.append(count);
+                sb.append(previous);
+                previous = s.charAt(i);
+                count = 1;
+            }
+        }
+
+        sb.append(count);
+        sb.append(previous);
+        return sb.toString();
     }
 }
