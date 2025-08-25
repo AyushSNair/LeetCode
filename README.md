@@ -42,6 +42,7 @@ Repo for all Leetcode problems solved
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AyushSNair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -226,11 +227,13 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
