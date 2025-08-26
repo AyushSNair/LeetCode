@@ -52,6 +52,7 @@ Repo for all Leetcode problems solved
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Math
 |  |
