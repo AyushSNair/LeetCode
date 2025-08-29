@@ -69,6 +69,7 @@ Repo for all Leetcode problems solved
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/AyushSNair/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
 |  |
 | ------- |
