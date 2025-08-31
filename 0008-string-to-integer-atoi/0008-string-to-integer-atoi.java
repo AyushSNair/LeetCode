@@ -1,47 +1,43 @@
+import java.util.*;
 class Solution {
     public int myAtoi(String s) {
-        char[] arr = s.toCharArray();
-        int sign = 0;
-        int l = 0;
-        StringBuilder str = new StringBuilder();
-        
-        for(int i = 0; i < arr.length; i++) {
-            if(arr[i] == ' ') {
-                if(str.length() == 0) continue;
-                else break;
+        int count = 0;
+        boolean flag = false;
+        int result  = 0;
+        String trimmedString = s.trim();
+        StringBuilder str = new StringBuilder(trimmedString);
+
+        for(int i = 0; i < str.length(); i++){
+            if(count == 0 && str.charAt(i) == '+'){
+                count++;
+                continue;
+                
             }
-            
-            if(arr[i] == '-' || arr[i] == '+') {
-                if(l == 0 && sign == 0 && str.length() == 0) {
-                    str.append(arr[i]);
-                    sign++;
-                } else {
-                    break;
-                }
-            } else if(arr[i] >= '0' && arr[i] <= '9') {
-                str.append(arr[i]);
-                l++;
-            } else {
+            if(count == 0 && str.charAt(i) == '-'){
+                flag = true;
+                count++;
+                continue;
+                
+            }
+            if(str.charAt(i)- '0' < 0 || str.charAt(i) - '0' > 9){
                 break;
             }
+            
+            int diff = str.charAt(i) - '0';
+            if(result > ((Integer.MAX_VALUE - diff) / 10)){
+                return flag ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            }
+            result = ( result * 10 ) + diff;
+            count++;
+
         }
-
-        String sb = str.toString();
-        if (sb.length() == 0 || sb.equals("-") || sb.equals("+")) {
-            return 0;
+        if(flag == true){
+            result = result * (-1);
+            return result;
         }
-
-        long number;
-        try {
-            number = Long.parseLong(sb); // use long to catch overflow
-        } catch (NumberFormatException e) {
-            return sb.charAt(0) == '-' ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+        else{
+            return result;
         }
-
-        // Clamp to int range
-        if (number < Integer.MIN_VALUE) return Integer.MIN_VALUE;
-        if (number > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-
-        return (int) number;
+        
     }
 }
