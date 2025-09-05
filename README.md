@@ -116,6 +116,7 @@ Repo for all Leetcode problems solved
 | [0205-isomorphic-strings](https://github.com/AyushSNair/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AyushSNair/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushSNair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -203,6 +204,7 @@ Repo for all Leetcode problems solved
 | [0205-isomorphic-strings](https://github.com/AyushSNair/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AyushSNair/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/AyushSNair/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushSNair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0800-letter-case-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AyushSNair/LeetCode/tree/master/0812-rotate-string) |
@@ -345,6 +347,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushSNair/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushSNair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/AyushSNair/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushSNair/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushSNair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
