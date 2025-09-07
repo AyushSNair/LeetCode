@@ -54,6 +54,7 @@ Repo for all Leetcode problems solved
 | [0966-binary-subarrays-with-sum](https://github.com/AyushSNair/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushSNair/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushSNair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -74,6 +75,7 @@ Repo for all Leetcode problems solved
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushSNair/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
