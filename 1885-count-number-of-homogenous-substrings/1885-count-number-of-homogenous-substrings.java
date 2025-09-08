@@ -1,19 +1,17 @@
 class Solution {
     public int countHomogenous(String s) {
-        int mod = 1_000_000_007;
-        long result = 0;
+        HashMap<Character, Integer> hmap = new HashMap<>();
+        int count = 0;
+        int mod = 1000000007;
         for(int i = 0; i < s.length(); i++){
-            long count =0;
-            for(int j = i; j < s.length();j++){
-                while(j< s.length() && i < s.length() && s.charAt(i) == s.charAt(j)){
-                    j++;
-                    count++;
-                }
-                result += (count*(count + 1))/2;
-                i =  j - 1;
-                break;
+            hmap.put(s.charAt(i) , hmap.getOrDefault(s.charAt(i) , 0 )+ 1);
+            if(i > 0 && s.charAt(i) != s.charAt(i-1)){
+                hmap.remove(s.charAt(i-1));
             }
+            count = count % mod;
+            count += hmap.get(s.charAt(i));
         }
-        return (int)(result % mod);
+
+        return count % mod;
     }
 }
