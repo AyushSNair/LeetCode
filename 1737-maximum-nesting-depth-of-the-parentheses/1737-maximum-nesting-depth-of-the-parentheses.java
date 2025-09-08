@@ -1,9 +1,9 @@
 class Solution {
     public int maxDepth(String s) {
+        Stack<Character> stk = new Stack<>();
         int count = 0;
         int maxCount = 0;
-        int n = s.length();
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == '('){
                 count++;
                 if(count > maxCount){
@@ -13,8 +13,10 @@ class Solution {
             else if(s.charAt(i) == ')'){
                 count--;
             }
+            else{
+                continue;
+            }
         }
         return maxCount;
     }
-    
 }
