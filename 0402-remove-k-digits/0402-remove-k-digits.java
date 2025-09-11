@@ -1,38 +1,47 @@
-import java.util.*;
 class Solution {
     public String removeKdigits(String num, int k) {
-        Stack<Character> stk = new Stack<Character>();
-        char [] arr = num.toCharArray();
-
-        for(int i = 0; i<num.length();i++){
-            char digit = arr[i];
-            while(!stk.empty() && k!=0 && stk.peek() > digit){
+        Stack<Character> stk = new Stack<>();
+        int m = 0;
+        if(k == num.length()){
+            return "0";
+        }
+        for(int i = 0; i < num.length(); i++){
+            while(!stk.empty() && stk.peek() > num.charAt(i) && m!=k ){
                 stk.pop();
-                k--;
+                m++;
             }
 
-            stk.push(arr[i]);
+            if(stk.empty() && num.charAt(i) == '0'){
+                continue;
+            }
 
+            stk.push(num.charAt(i));
         }
-        while(k > 0){
-            stk.pop();
-                k--;
+
+        if(stk.empty()){
+            return "0";
         }
+
         StringBuilder str = new StringBuilder();
-        for(int i = 0; i < stk.size(); i++){
-            str.append(stk.get(i));
+        
+        while(!stk.empty()){
+            str.append(stk.pop());
         }
 
- 
+        str = str.reverse();
 
-        while(str.length()!=0 && str.charAt(0) == '0'){
-            str.deleteCharAt(0);
+        while(str.length() != 0 && m != k){
+            str.deleteCharAt(str.length()-1);
+            m++;
         }
-        if(str.length() == 0){
+        
+        String s = str.toString();
+
+        if(s.length() == 0){
             return "0";
         }
         else{
-        return str.toString();    
+            return s;
         }
         
     }
