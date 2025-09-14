@@ -8,30 +8,36 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int count = 1;
-        int m = 1;
+        int count = 0;
         ListNode temp = head;
-        while(temp.next !=null){
-            temp = temp.next;
+
+        while(temp != null){
             count++;
+            temp = temp.next;
         }
-        ListNode temp1 = head;
+        temp = head;
         if(count % 2 == 1){
-            while(m != (count+1)/2){
-                temp1 = temp1.next;
+            int mid = (count / 2) + 1;
+            int m = 1;
+            while(m != mid ){
+                temp = temp.next;
                 m++;
             }
-            return temp1;
+        
+            return temp;
         }
-        if(count % 2 == 0){
-            while(m != (count+2)/2){
-                temp1 = temp1.next;
+        else{
+            int mid = (count / 2) + 1;
+            int m = 1;
+            while(m != mid ){
+                temp = temp.next;
                 m++;
             }
-            return temp1;
+
+            return temp;
         }
-        return temp;
     }
 }
