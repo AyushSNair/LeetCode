@@ -18,26 +18,14 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        temp = head;
-        if(count % 2 == 1){
-            int mid = (count / 2) + 1;
-            int m = 1;
-            while(m != mid ){
-                temp = temp.next;
-                m++;
-            }
         
-            return temp;
-        }
-        else{
-            int mid = (count / 2) + 1;
-            int m = 1;
-            while(m != mid ){
-                temp = temp.next;
-                m++;
-            }
+        ListNode hare = head;
+        ListNode tortoise = head;
 
-            return temp;
+        while(hare != null && hare.next != null){
+            hare = hare.next.next;
+            tortoise = tortoise.next;
         }
+        return tortoise;
     }
 }
