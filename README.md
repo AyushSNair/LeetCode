@@ -68,6 +68,7 @@ Repo for all Leetcode problems solved
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyushSNair/LeetCode/tree/master/0050-powx-n) |
@@ -281,6 +282,7 @@ Repo for all Leetcode problems solved
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushSNair/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushSNair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushSNair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -296,6 +298,7 @@ Repo for all Leetcode problems solved
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushSNair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushSNair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/AyushSNair/LeetCode/tree/master/0050-powx-n) |
