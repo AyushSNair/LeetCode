@@ -1,54 +1,29 @@
 class Solution {
-    public int calculate(char a){
-        if(a == 'I'){
-            return 1;
-        }
-        else if(a == 'V'){
-            return 5;
-        }
-        else if(a == 'X'){
-            return 10;
-        }
-        else if(a == 'L'){
-            return 50;
-        }
-        else if(a == 'C'){
-            return 100;
-        }
-        else if(a == 'D'){
-            return 500;
-        }
-        else{
-            return 1000;
-        }
-    }
-
     public int romanToInt(String s) {
-        int var1 = 0;
-        int var2 = 0;
-        int ans = 0;
-        int i = 0;
-        char[] arr = s.toCharArray();
-        for(i = 0; i<arr.length-1; i++){
-            int val1 = calculate(arr[i]);
-            int val2 = calculate(arr[i+1]);
+        HashMap<Character, Integer> hmap = new HashMap<>();
 
-            if(val1 < val2){
-                ans = ans - val1;
+        hmap.put('I', 1);
+        hmap.put('V', 5);
+        hmap.put('X', 10);
+        hmap.put('L', 50);
+        hmap.put('C', 100);
+        hmap.put('D', 500);
+        hmap.put('M', 1000);
+        int i = 0;
+        int result = 0;
+        for(i = 0; i < s.length()-1; i++){
+            if(hmap.get(s.charAt(i)) >= hmap.get(s.charAt(i+1))){
+                result += hmap.get(s.charAt(i));
             }
-            else{
-                ans = ans + val1;
+            else if(hmap.get(s.charAt(i)) < hmap.get(s.charAt(i+1))){
+                result += hmap.get(s.charAt(i+1)) - hmap.get(s.charAt(i));
+                i++;
             }
         }
-        ans = ans + calculate(arr[i]);
-        return ans;
-    }
-
-    public void main(String args[]){
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-
-        int result = romanToInt(str);
-        System.out.print(result);
+        if(i == s.length()-1){
+            result += hmap.get(s.charAt(i));
+        }
+        
+        return result;
     }
 }
