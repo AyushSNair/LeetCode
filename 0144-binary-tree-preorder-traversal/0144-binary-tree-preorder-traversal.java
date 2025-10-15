@@ -1,27 +1,38 @@
-import java.util.*;
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-}
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        preorder(root, result);
-        return result;
+        List<Integer> arrList = new ArrayList<>();
+
+        preOrder(root, arrList);
+        return arrList;
     }
 
-    private void preorder(TreeNode node, List<Integer> result) {
-        if (node == null) return;
+    public void preOrder(TreeNode node, List<Integer> arrList){
 
-        result.add(node.val);          // Visit root
-        preorder(node.left, result);   // Traverse left subtree
-        preorder(node.right, result);  // Traverse right subtree
+        if(node == null){
+            return;
+        }
+
+        arrList.add(node.val);
+        
+        //go to left
+        preOrder(node.left, arrList);
+
+        //go to right
+        preOrder(node.right, arrList);
     }
 }
