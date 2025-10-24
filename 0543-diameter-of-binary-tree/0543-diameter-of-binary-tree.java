@@ -21,9 +21,6 @@ class Solution {
         int left = maxDepth(root.left);
         int right = maxDepth(root.right);
 
-        int l = left ;
-        int r = right ;
-
         int leftDiameter = diameterOfBinaryTree(root.left);
         int rightDiameter = diameterOfBinaryTree(root.right);
 
