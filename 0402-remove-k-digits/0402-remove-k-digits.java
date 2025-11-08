@@ -1,48 +1,38 @@
 class Solution {
     public String removeKdigits(String num, int k) {
-        Stack<Character> stk = new Stack<>();
-        int m = 0;
-        if(k == num.length()){
+        if(num.length() == k){
             return "0";
         }
-        for(int i = 0; i < num.length(); i++){
-            while(!stk.empty() && stk.peek() > num.charAt(i) && m!=k ){
-                stk.pop();
-                m++;
-            }
+        Stack<Character> stk = new Stack<Character>();
 
-            if(stk.empty() && num.charAt(i) == '0'){
+        for(int i = 0; i < num.length(); i++){
+            if(!stk.empty()){
+                while(!stk.empty() && stk.peek() > num.charAt(i) && k != 0){
+                    stk.pop();
+                    k--;
+                }
+            }
+            
+            if(num.charAt(i) == '0' && stk.empty() && i != num.length() - 1){
                 continue;
             }
 
             stk.push(num.charAt(i));
         }
 
-        if(stk.empty()){
-            return "0";
+        while(!stk.empty() && k != 0){
+            stk.pop();
+            k--;
         }
 
         StringBuilder str = new StringBuilder();
-        
         while(!stk.empty()){
             str.append(stk.pop());
         }
-
-        str = str.reverse();
-
-        while(str.length() != 0 && m != k){
-            str.deleteCharAt(str.length()-1);
-            m++;
-        }
-        
-        String s = str.toString();
-
-        if(s.length() == 0){
+        if( str.toString() == ""){
             return "0";
         }
-        else{
-            return s;
-        }
-        
+        str.reverse();
+        return str.toString();
     }
 }
