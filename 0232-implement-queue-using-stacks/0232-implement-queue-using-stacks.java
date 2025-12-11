@@ -1,28 +1,21 @@
-import java.util.Stack;
 class MyQueue {
-    Stack<Integer> s1 = new Stack<Integer>();
-    Stack<Integer> s2 = new Stack<Integer>();
+    Stack<Integer> s1;
+    Stack<Integer> s2;
     public MyQueue() {
-
+        s1 = new Stack<>();
+        s2 = new Stack<>();
     }
-   
+    
     public void push(int x) {
+        while(!s1.isEmpty()){
+            s2.push(s1.pop());
+        }
 
-        if(s1.size() == 0){
-            s1.push(x);
+        s1.push(x);
+
+        while(!s2.isEmpty()){
+            s1.push(s2.pop());
         }
-        else if(s1.size() != 0 && s2.size()==0 ){
-            while ( s1.size() != 0){
-                int temp = s1.pop();
-                s2.push(temp);
-            }
-            s1.push(x);
-            while( s2.size() != 0){
-                int temp = s2.pop();
-                s1.push(temp);
-            }
-        }
-        
     }
     
     public int pop() {
@@ -34,7 +27,7 @@ class MyQueue {
     }
     
     public boolean empty() {
-        if(s1.size() == 0){
+        if(s1.isEmpty()){
             return true;
         }
         else{
