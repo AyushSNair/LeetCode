@@ -1,4 +1,3 @@
-import java.util.*;
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -16,13 +15,15 @@ import java.util.*;
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root == null){
+        TreeNode node = root;
+        
+        if(node == null){
             return 0;
         }
 
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        int h = Math.max(left,right);
-        return 1 + h;
+        int left = maxDepth(node.left);
+        int right = maxDepth(node.right);
+
+        return 1 + Math.max(left, right);
     }
 }
