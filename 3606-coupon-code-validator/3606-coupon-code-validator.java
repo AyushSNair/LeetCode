@@ -1,42 +1,45 @@
 class Solution {
-    public List<String> validateCoupons(
-            String[] code,
-            String[] businessLine,
-            boolean[] isActive) {
+    public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
+        
 
-        // Fixed business order
+        HashMap<String, ArrayList<String>> hmap = new HashMap<>();
+        hmap.put("electronics", new ArrayList<>());
+        hmap.put("grocery", new ArrayList<>());
+        hmap.put("pharmacy", new ArrayList<>());
+        hmap.put("restaurant", new ArrayList<>());
+
+        
+
+        for(int i = 0; i < code.length; i++){
+            boolean flag = true;
+            if(code[i] == null || code[i].isEmpty()) {
+                flag = false;
+            }
+
+            if(flag && !code[i].matches("^[a-zA-Z0-9_]+$")){
+                flag = false;
+            }
+
+            if(flag && !hmap.containsKey(businessLine[i])){
+                flag = false;
+            }
+
+            if(flag && !isActive[i]){
+                flag = false;
+            }
+
+            if(flag == true){
+                hmap.get(businessLine[i]).add(code[i]);
+            }
+        }
+        
+        List<String> result = new ArrayList<>();
         String[] order = {"electronics", "grocery", "pharmacy", "restaurant"};
 
-        // Map to store valid coupons per category
-        Map<String, List<String>> map = new HashMap<>();
-        for (String b : order) {
-            map.put(b, new ArrayList<>());
-        }
-
-        for (int i = 0; i < code.length; i++) {
-
-            // Rule 3: active coupon
-            if (!isActive[i]) continue;
-
-            // Rule 1: non-empty code
-            if (code[i] == null || code[i].isEmpty()) continue;
-
-            // Rule 2: valid characters
-            if (!code[i].matches("[a-zA-Z0-9_]+")) continue;
-
-            // Rule 4: valid business line
-            if (!map.containsKey(businessLine[i])) continue;
-
-            map.get(businessLine[i]).add(code[i]);
-        }
-
-        // Prepare result
-        List<String> result = new ArrayList<>();
-
-        for (String b : order) {
-            List<String> list = map.get(b);
-            Collections.sort(list); // lexicographical order
-            result.addAll(list);
+        for(String b : order){
+            List<String> ans = hmap.get(b);
+            Collections.sort(ans);
+            result.addAll(ans);
         }
 
         return result;
