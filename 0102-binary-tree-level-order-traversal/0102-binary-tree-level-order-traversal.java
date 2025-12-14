@@ -15,27 +15,30 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
+        TreeNode node = root;
         List<List<Integer>> wrapList = new ArrayList<>();
-        
 
-        levelOrderTraverse(root, wrapList);
+        levelTraverse(node, wrapList);
 
         return wrapList;
     }
 
-    public List<List<Integer>> levelOrderTraverse(TreeNode node, List<List<Integer>> wrapList){
-        
-        Queue<TreeNode> queue = new LinkedList<TreeNode>();
-
+    public List<List<Integer>> levelTraverse(TreeNode node, List<List<Integer>> wrapList){
         if(node == null){
             return wrapList;
         }
+        Queue<TreeNode> queue = new LinkedList<>();
+        int levelNum = 0;
 
         queue.offer(node);
-        while(!queue.isEmpty()){
-            int levelNum = queue.size();
-            ArrayList<Integer> arrList = new ArrayList<>();
+
+
+        while(queue.size() != 0){
+            levelNum = queue.size();
+            ArrayList<Integer> arrList  = new ArrayList<>();
             for(int i = 0; i < levelNum; i++){
+                
+                
                 if(queue.peek().left != null){
                     queue.offer(queue.peek().left);
                 }
@@ -43,11 +46,12 @@ class Solution {
                 if(queue.peek().right != null){
                     queue.offer(queue.peek().right);
                 }
-                
+
                 arrList.add(queue.poll().val);
             }
             wrapList.add(arrList);
         }
+        
         return wrapList;
     }
 }
