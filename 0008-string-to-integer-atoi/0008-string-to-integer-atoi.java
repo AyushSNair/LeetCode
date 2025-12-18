@@ -1,57 +1,36 @@
 class Solution {
     public int myAtoi(String s) {
-        int count = 0;
-        
-        StringBuilder str = new StringBuilder(s.trim());
-        StringBuilder result = new StringBuilder();
-        boolean flag = false;
-        for(int i = 0; i < str.length(); i++){
-            if(str.charAt(i) == '-' && count == 0){
-                flag = true;
-                count++;
-                continue;
-            }
-            if(str.charAt(i) == '+' && count == 0){
-                count++;
-                continue;
-            }
-            if(str.charAt(i) >= 65 && str.charAt(i) <= 90){
-                break;
-            }
+        int i = 0;
+        int n = s.length();
+        int sign = 1;
+        long result = 0;
 
-            if(str.charAt(i) >= 97 && str.charAt(i) <= 122){
-                break;
-            }
-            if(str.charAt(i) >= 32 && str.charAt(i) <= 46){
-                break;
-            }
-
-            result.append(str.charAt(i));
-            count++;
-        }
-        if(result.length() == 0){
-            return 0;
+        // 1. Skip leading whitespaces
+        while (i < n && s.charAt(i) == ' ') {
+            i++;
         }
 
-        String ss = result.toString();
-        // CHANGE HERE: Use long to prevent overflow
-        long result1 = 0;
-        try {
-            result1 = Long.parseLong(ss);
-        } catch (NumberFormatException e) {
-            // If the number is too big, clamp it
-            return flag ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+        // 2. Check sign
+        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
         }
 
-        if(flag == true){
-            result1 *= -1;
+        // 3. Convert digits
+        while (i < n && Character.isDigit(s.charAt(i))) {
+            result = result * 10 + (s.charAt(i) - '0');
+
+            // 4. Handle overflow
+            if (sign * result >= Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+            if (sign * result <= Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
+
+            i++;
         }
 
-        // Clamp the value to int range
-        if(result1 > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-        if(result1 < Integer.MIN_VALUE) return Integer.MIN_VALUE;
-
-        return (int)result1;
-        
+        return (int) (sign * result);
     }
 }
