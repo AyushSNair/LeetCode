@@ -1,33 +1,49 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> listString = new ArrayList<>();
-
+        
+        List<String> result = new ArrayList<>();
+        StringBuilder op = new StringBuilder();
         int open = n;
         int close = n;
-        String op = "";
+        
 
-        solve(open,close,op,listString);
-        return listString;
+        solutionFunc(result, op, open, close);
+
+        return result;
     }
 
-    public List<String> solve(int open, int close, String op, List<String> listString){
+    public void solutionFunc(List<String> result, StringBuilder op, int open, int close){
         if(open == 0 && close == 0){
-            listString.add(op);
-            return listString;
+            result.add(op.toString());
+            return;
         }
 
-        if(open != 0){
-            String op1 = op;
-            op1 = op1 + "(";
-            solve(open-1,close, op1, listString);
+        if(open > 0){
+            op.append('(');
+            solutionFunc(result, op, open - 1, close);
+
+            if(op.charAt(op.length() - 1) == '('){
+                op.deleteCharAt(op.length() - 1);
+            }
+            else{
+                op.deleteCharAt(op.length() - 1);
+            }
+
         }
 
-        if(close > open){
-            String op2 = op;
-            op2 = op2 + ")";
-            solve(open, close-1, op2, listString);
+        if(open < close){
+            op.append(')');
+            solutionFunc(result,op,open, close - 1);
+
+            if(op.charAt(op.length() - 1) == ')'){
+                op.deleteCharAt(op.length() - 1);
+            }
+            else{
+                op.deleteCharAt(op.length() - 1);
         }
 
-        return listString;
+        }
+
+        
     }
 }
