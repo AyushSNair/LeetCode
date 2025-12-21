@@ -1,38 +1,47 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result = new ArrayList<>();
         ArrayList<Integer> ip = new ArrayList<>();
-        for(int i = 0 ; i < candidates.length; i++){
+
+        for(int i = 0; i < candidates.length; i++){
             ip.add(candidates[i]);
         }
-
+        int sum = 0;
         ArrayList<Integer> op = new ArrayList<>();
-        solve(result, ip, op, target);
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        solutionFunc(result, ip, op, sum, target);
 
         return result;
     }
-
-    public List<List<Integer>> solve(List<List<Integer>> result, ArrayList<Integer> ip, ArrayList<Integer> op, int target){
-        int target1 = target;
-        int target2 = target;
-        // Base condition
-        if(target1 == 0 || target2 == 0){
+    
+    public void solutionFunc(List<List<Integer>> result, ArrayList<Integer> ip, ArrayList<Integer> op, int sum, int target){
+        
+        if(sum == target){
             result.add(new ArrayList<>(op));
-            return result;
+            return;
         }
-        if(target1 < 0 || ip.isEmpty()){
-            return result;
+
+        if(sum > target || ip.size() == 0){
+            return;
         }
 
         ArrayList<Integer> op1 = new ArrayList<>(op);
-        op1.add(ip.get(0));
-        solve(result, ip, op1, target - ip.get(0));
+        ArrayList<Integer> op2 = new ArrayList<>(op);
+
+        ArrayList<Integer> ip1 = new ArrayList<>(ip);
+        ArrayList<Integer> ip2 = new ArrayList<>(ip);
+    
+        int sum1 = sum;
+        int sum2 = sum;
+
+        ip1.remove(0);
+        solutionFunc(result, ip1, op1, sum1, target);
+
+        op2.add(ip2.get(0));
+        sum2 = sum2 + op2.get(op2.size() - 1);
+        solutionFunc(result, ip2, op2, sum2, target);
 
 
-        ArrayList<Integer> newIp = new ArrayList<>(ip);
-        newIp.remove(0);
-        solve(result, newIp, op, target);
-
-        return result;
     }
 }
