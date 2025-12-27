@@ -61,6 +61,7 @@ Repo for all Leetcode problems solved
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -139,6 +140,7 @@ Repo for all Leetcode problems solved
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AyushSNair/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushSNair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Binary Search
 |  |
@@ -177,6 +179,7 @@ Repo for all Leetcode problems solved
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
+| [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
@@ -265,6 +268,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -286,6 +290,7 @@ Repo for all Leetcode problems solved
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Union Find
 |  |
 | ------- |
