@@ -40,6 +40,7 @@ Repo for all Leetcode problems solved
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyushSNair/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushSNair/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AyushSNair/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -204,6 +205,7 @@ Repo for all Leetcode problems solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSNair/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushSNair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushSNair/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
