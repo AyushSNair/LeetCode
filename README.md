@@ -61,6 +61,7 @@ Repo for all Leetcode problems solved
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushSNair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -162,6 +163,7 @@ Repo for all Leetcode problems solved
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushSNair/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Repo for all Leetcode problems solved
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -305,6 +308,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyushSNair/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -454,6 +458,7 @@ Repo for all Leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -478,4 +483,5 @@ Repo for all Leetcode problems solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
