@@ -23,6 +23,7 @@ Repo for all Leetcode problems solved
 | [0055-jump-game](https://github.com/AyushSNair/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AyushSNair/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/AyushSNair/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
@@ -78,6 +79,7 @@ Repo for all Leetcode problems solved
 | [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyushSNair/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AyushSNair/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
