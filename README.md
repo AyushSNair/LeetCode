@@ -488,4 +488,8 @@ Repo for all Leetcode problems solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AyushSNair/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
