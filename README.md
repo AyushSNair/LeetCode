@@ -144,6 +144,7 @@ Repo for all Leetcode problems solved
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/AyushSNair/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AyushSNair/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AyushSNair/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -452,6 +453,7 @@ Repo for all Leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -465,6 +467,7 @@ Repo for all Leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
@@ -481,6 +484,7 @@ Repo for all Leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +494,7 @@ Repo for all Leetcode problems solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Database
 |  |
