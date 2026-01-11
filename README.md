@@ -28,6 +28,7 @@ Repo for all Leetcode problems solved
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushSNair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AyushSNair/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AyushSNair/LeetCode/tree/master/0118-pascals-triangle) |
@@ -220,6 +221,7 @@ Repo for all Leetcode problems solved
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushSNair/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AyushSNair/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSNair/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushSNair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -299,6 +301,7 @@ Repo for all Leetcode problems solved
 | [0036-valid-sudoku](https://github.com/AyushSNair/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -365,6 +368,7 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -395,6 +399,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyushSNair/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
