@@ -295,6 +295,7 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -513,4 +514,12 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0175-combine-two-tables](https://github.com/AyushSNair/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AyushSNair/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
