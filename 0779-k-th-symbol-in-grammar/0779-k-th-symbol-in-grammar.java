@@ -1,17 +1,22 @@
-import java.util.*;
 class Solution {
     public int kthGrammar(int n, int k) {
+        //base condition
         if(n == 1 && k == 1){
             return 0;
         }
-
-        int l = (int) Math.pow(2, n-1);
-        int mid = l/2;
-        if(k <= mid){
-            return kthGrammar(n-1,k);
+        
+        int mid =(int)(Math.pow(2,n-1)) / 2;
+    
+        if(k > mid){
+            int r = kthGrammar(n-1, k - mid);
+            if(r == 1){
+                return 0;
+            }
+            return 1;
         }
         else{
-            return 1 - kthGrammar(n-1,k-mid);
+            return kthGrammar(n-1, k);
+            
         }
     }
 }
