@@ -1,37 +1,36 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> wrapList = new ArrayList<>();
         
-        ArrayList<Integer> ip = new ArrayList<>();
-
+        ArrayList<Integer> ip = new ArrayList<Integer>();
+        ArrayList<Integer> op = new ArrayList<Integer>();
+        
         for(int i = 0; i < nums.length; i++){
             ip.add(nums[i]);
         }
         
-        List<List<Integer>> result = new ArrayList<>();
-        ArrayList<Integer> op = new ArrayList<>();
-
-        solutionFunc(result, op, ip, ip.size());
-
-        return result;
+        solFunc(wrapList, ip, op);
+        return wrapList;
     }
-    
-    public void solutionFunc(List<List<Integer>> result, ArrayList<Integer> op, ArrayList<Integer> ip, int n){
+
+    public List<List<Integer>> solFunc(List<List<Integer>> wrapList, ArrayList<Integer> ip, ArrayList<Integer> op){
+        //base condition
         if(ip.size() == 0){
-            result.add(new ArrayList<>(op));
-            return;
+            wrapList.add(op);
+            return wrapList;
         }
 
-        ArrayList<Integer> op1 = new ArrayList<>(op);
-        ArrayList<Integer> op2 = new ArrayList<>(op);
-
-        ArrayList<Integer> ip1 = new ArrayList<>(ip);
-        ArrayList<Integer> ip2 = new ArrayList<>(ip);
-        
-        op2.add(ip.get(0));
+        ArrayList<Integer> ip1 = new ArrayList<Integer>(ip);
+        ArrayList<Integer> op1 = new ArrayList<Integer>(op);
         ip1.remove(0);
+        solFunc(wrapList, ip1, op1);
+        
+        ArrayList<Integer> ip2 = new ArrayList<Integer>(ip);
+        ArrayList<Integer> op2 = new ArrayList<Integer>(op);
+        op2.add(ip2.get(0));
         ip2.remove(0);
+        solFunc(wrapList, ip2, op2);
 
-        solutionFunc(result, op1, ip1, ip.size());
-        solutionFunc(result, op2, ip2, ip.size());
+        return wrapList;
     }
 }
