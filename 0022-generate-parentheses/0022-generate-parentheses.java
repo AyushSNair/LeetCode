@@ -40,7 +40,7 @@ class Solution {
             }
             else{
                 op.deleteCharAt(op.length() - 1);
-        }
+            }
 
         }
 
