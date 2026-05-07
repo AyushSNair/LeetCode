@@ -100,6 +100,7 @@ Repo for all Leetcode problems solved
 | [1390-four-divisors](https://github.com/AyushSNair/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1922-count-good-numbers](https://github.com/AyushSNair/LeetCode/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushSNair/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
@@ -389,6 +390,7 @@ Repo for all Leetcode problems solved
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/AyushSNair/LeetCode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
