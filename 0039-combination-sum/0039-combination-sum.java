@@ -1,47 +1,47 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        ArrayList<Integer> ip = new ArrayList<>();
+        List<List<Integer>> wrapList = new ArrayList<>();
+
+        ArrayList<Integer> ip = new ArrayList<Integer>();
+        ArrayList<Integer> op = new ArrayList<Integer>();
 
         for(int i = 0; i < candidates.length; i++){
             ip.add(candidates[i]);
         }
-        int sum = 0;
-        ArrayList<Integer> op = new ArrayList<>();
 
-        List<List<Integer>> result = new ArrayList<>();
+        solFunc(wrapList, ip, op, target);
 
-        solutionFunc(result, ip, op, sum, target);
-
-        return result;
+        return wrapList;
     }
-    
-    public void solutionFunc(List<List<Integer>> result, ArrayList<Integer> ip, ArrayList<Integer> op, int sum, int target){
-        
-        if(sum == target){
-            result.add(new ArrayList<>(op));
-            return;
+
+    public List<List<Integer>> solFunc(List<List<Integer>> wrapList, ArrayList<Integer> ip, ArrayList<Integer> op, int target){
+        //base condition
+        //accceptance
+        if(target == 0){
+            wrapList.add(op);
+            return wrapList;
         }
 
-        if(sum > target || ip.size() == 0){
-            return;
+        //rejection
+        if(target < 0 || ip.size() == 0){
+            return wrapList;
         }
-
-        ArrayList<Integer> op1 = new ArrayList<>(op);
-        ArrayList<Integer> op2 = new ArrayList<>(op);
 
         ArrayList<Integer> ip1 = new ArrayList<>(ip);
-        ArrayList<Integer> ip2 = new ArrayList<>(ip);
-    
-        int sum1 = sum;
-        int sum2 = sum;
+        ArrayList<Integer> op1 = new ArrayList<>(op);
 
         ip1.remove(0);
-        solutionFunc(result, ip1, op1, sum1, target);
+
+        solFunc(wrapList, ip1, op1, target);
+
+        ArrayList<Integer> ip2 = new ArrayList<>(ip);
+        ArrayList<Integer> op2 = new ArrayList<>(op);
 
         op2.add(ip2.get(0));
-        sum2 = sum2 + op2.get(op2.size() - 1);
-        solutionFunc(result, ip2, op2, sum2, target);
+        target = target - ip2.get(0);
 
+        solFunc(wrapList, ip2, op2, target);
 
+        return wrapList;
     }
 }
