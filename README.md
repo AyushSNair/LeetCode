@@ -39,6 +39,7 @@ Repo for all Leetcode problems solved
 | [0162-find-peak-element](https://github.com/AyushSNair/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/AyushSNair/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyushSNair/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -451,6 +452,7 @@ Repo for all Leetcode problems solved
 | [0040-combination-sum-ii](https://github.com/AyushSNair/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AyushSNair/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/AyushSNair/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0756-pyramid-transition-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Sliding Window
