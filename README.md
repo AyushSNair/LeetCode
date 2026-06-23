@@ -39,6 +39,7 @@ Repo for all Leetcode problems solved
 | [0162-find-peak-element](https://github.com/AyushSNair/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AyushSNair/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@ Repo for all Leetcode problems solved
 | [0088-merge-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyushSNair/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AyushSNair/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -230,6 +232,7 @@ Repo for all Leetcode problems solved
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AyushSNair/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -324,6 +327,7 @@ Repo for all Leetcode problems solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -564,4 +568,8 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
