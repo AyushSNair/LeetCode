@@ -79,6 +79,7 @@ Repo for all Leetcode problems solved
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -170,6 +171,7 @@ Repo for all Leetcode problems solved
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushSNair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
@@ -572,4 +574,8 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
