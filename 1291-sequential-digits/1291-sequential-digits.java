@@ -1,22 +1,28 @@
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
-        List<Integer> result = new ArrayList<>();
-        String digits = "123456789";
-        
-        int n = digits.length();
-        
-        // Length of numbers to generate
-        for (int len = 1; len <= 9; len++) {
-            for (int i = 0; i + len <= n; i++) {
-                int num = Integer.parseInt(digits.substring(i, i + len));
-                
-                if (num >= low && num <= high) {
-                    result.add(num);
+        int low_digit = Integer.toString(low).length();
+        int high_digit = Integer.toString(high).length();
+        List<Integer> arrList = new ArrayList<>();
+
+        for(int i = low_digit; i <= high_digit; i++){
+            for(int start = 1; start <= 9; start++){
+                int num = start;
+                int prev = start;
+
+                int digit = i;
+
+                while(digit != 1 && start + digit <= 10){
+                    num = num * 10;
+                    num = num + (prev + 1);
+                    prev = prev + 1;
+                    digit--;
                 }
+                if(num >= low && num <= high){
+                    arrList.add(num);
+                }
+                
             }
         }
-        
-        Collections.sort(result);
-        return result;
+        return arrList;
     }
 }
