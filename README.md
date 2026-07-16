@@ -55,6 +55,7 @@ Repo for all Leetcode problems solved
 | [0518-coin-change-ii](https://github.com/AyushSNair/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/AyushSNair/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0860-lemonade-change) |
@@ -163,6 +164,7 @@ Repo for all Leetcode problems solved
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/AyushSNair/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
