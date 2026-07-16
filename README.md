@@ -88,6 +88,7 @@ Repo for all Leetcode problems solved
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Repo for all Leetcode problems solved
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushSNair/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Repo for all Leetcode problems solved
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ Repo for all Leetcode problems solved
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +371,7 @@ Repo for all Leetcode problems solved
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -591,4 +596,8 @@ Repo for all Leetcode problems solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
