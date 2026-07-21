@@ -318,6 +318,7 @@ Repo for all Leetcode problems solved
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -599,6 +600,7 @@ Repo for all Leetcode problems solved
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/AyushSNair/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
