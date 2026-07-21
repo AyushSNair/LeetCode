@@ -1,37 +1,43 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
+        int n = grid.length;
+        int m = grid[0].length;
+        int ele = 0;
+        int prev_ele = 0;
 
-        int m = grid.length;
-        int n = grid[0].length;
-        int total = m * n;
+        for(int a = 0; a < k; a++){
+            
+        
+            for(int i = 0; i < n; i++){
+                for(int j = 0 ; j < m; j++){
+                    if(i == 0 && j == 0){
+                        ele = grid[i][j];
+                        prev_ele = grid[i][j];
+                        continue;
+                    }
 
-        k %= total;
+                    prev_ele = ele;
+                    ele = grid[i][j];
 
-        int[][] ans = new int[m][n];
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                int index = i * n + j;
-                int newIndex = (index + k) % total;
-
-                int newRow = newIndex / n;
-                int newCol = newIndex % n;
-
-                ans[newRow][newCol] = grid[i][j];
+                    grid[i][j] = prev_ele;
+                }
             }
+
+            grid[0][0] = ele;
         }
 
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
 
-        for (int i = 0; i < m; i++) {
-            List<Integer> row = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                row.add(ans[i][j]);
+        for(int[] row : grid){
+            ArrayList<Integer> arrList = new ArrayList<>();
+
+            for(int elem : row){
+                arrList.add(elem);
             }
-            res.add(row);
+
+            result.add(arrList);
         }
 
-        return res;
-    }
+        return result;
+    }   
 }
