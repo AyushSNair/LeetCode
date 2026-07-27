@@ -4,8 +4,8 @@ Repo for all Leetcode problems solved
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AyushSNair/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushSNair/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AyushSNair/LeetCode/tree/master/0015-3sum) |
@@ -73,6 +73,7 @@ Repo for all Leetcode problems solved
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/AyushSNair/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushSNair/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushSNair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -93,8 +94,8 @@ Repo for all Leetcode problems solved
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
@@ -120,8 +121,8 @@ Repo for all Leetcode problems solved
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AyushSNair/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushSNair/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -148,8 +149,8 @@ Repo for all Leetcode problems solved
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AyushSNair/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushSNair/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyushSNair/LeetCode/tree/master/0013-roman-to-integer) |
@@ -186,8 +187,8 @@ Repo for all Leetcode problems solved
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushSNair/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -202,8 +203,8 @@ Repo for all Leetcode problems solved
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/AyushSNair/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AyushSNair/LeetCode/tree/master/0090-subsets-ii) |
@@ -217,8 +218,8 @@ Repo for all Leetcode problems solved
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushSNair/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/AyushSNair/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
@@ -234,6 +235,7 @@ Repo for all Leetcode problems solved
 | [1200-minimum-absolute-difference](https://github.com/AyushSNair/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushSNair/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushSNair/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushSNair/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
@@ -242,24 +244,24 @@ Repo for all Leetcode problems solved
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushSNair/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AyushSNair/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushSNair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -284,8 +286,8 @@ Repo for all Leetcode problems solved
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushSNair/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AyushSNair/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AyushSNair/LeetCode/tree/master/0008-string-to-integer-atoi) |
@@ -323,8 +325,8 @@ Repo for all Leetcode problems solved
 | [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0055-jump-game](https://github.com/AyushSNair/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AyushSNair/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -334,29 +336,30 @@ Repo for all Leetcode problems solved
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSNair/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushSNair/LeetCode/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/AyushSNair/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AyushSNair/LeetCode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushSNair/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AyushSNair/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -371,8 +374,8 @@ Repo for all Leetcode problems solved
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/AyushSNair/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
@@ -383,13 +386,13 @@ Repo for all Leetcode problems solved
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyushSNair/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AyushSNair/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushSNair/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -397,8 +400,8 @@ Repo for all Leetcode problems solved
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushSNair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushSNair/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushSNair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
@@ -417,8 +420,8 @@ Repo for all Leetcode problems solved
 | [0328-odd-even-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushSNair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushSNair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -431,8 +434,8 @@ Repo for all Leetcode problems solved
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/AyushSNair/LeetCode/tree/master/1922-count-good-numbers) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -453,20 +456,20 @@ Repo for all Leetcode problems solved
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AyushSNair/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushSNair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AyushSNair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushSNair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushSNair/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyushSNair/LeetCode/tree/master/0402-remove-k-digits) |
@@ -474,17 +477,17 @@ Repo for all Leetcode problems solved
 | [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyushSNair/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/AyushSNair/LeetCode/tree/master/0146-lru-cache) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AyushSNair/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushSNair/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -494,8 +497,8 @@ Repo for all Leetcode problems solved
 | [0756-pyramid-transition-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushSNair/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushSNair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AyushSNair/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -509,16 +512,16 @@ Repo for all Leetcode problems solved
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushSNair/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0866-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0866-rectangle-overlap) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/AyushSNair/LeetCode/tree/master/0148-sort-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AyushSNair/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AyushSNair/LeetCode/tree/master/0101-symmetric-tree) |
@@ -534,8 +537,8 @@ Repo for all Leetcode problems solved
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AyushSNair/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AyushSNair/LeetCode/tree/master/0101-symmetric-tree) |
@@ -551,8 +554,8 @@ Repo for all Leetcode problems solved
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AyushSNair/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AyushSNair/LeetCode/tree/master/0101-symmetric-tree) |
@@ -567,8 +570,8 @@ Repo for all Leetcode problems solved
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/AyushSNair/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AyushSNair/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -580,36 +583,36 @@ Repo for all Leetcode problems solved
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AyushSNair/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AyushSNair/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushSNair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1291-sequential-digits](https://github.com/AyushSNair/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushSNair/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
