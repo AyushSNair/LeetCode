@@ -239,6 +239,7 @@ Repo for all Leetcode problems solved
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushSNair/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushSNair/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -323,6 +324,7 @@ Repo for all Leetcode problems solved
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -615,4 +617,8 @@ Repo for all Leetcode problems solved
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushSNair/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
