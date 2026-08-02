@@ -60,6 +60,7 @@ Repo for all Leetcode problems solved
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0890-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AyushSNair/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AyushSNair/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -110,6 +111,7 @@ Repo for all Leetcode problems solved
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0866-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/AyushSNair/LeetCode/tree/master/1390-four-divisors) |
@@ -282,6 +284,7 @@ Repo for all Leetcode problems solved
 | [0518-coin-change-ii](https://github.com/AyushSNair/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushSNair/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AyushSNair/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AyushSNair/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AyushSNair/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -629,4 +632,5 @@ Repo for all Leetcode problems solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
