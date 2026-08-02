@@ -49,6 +49,7 @@ Repo for all Leetcode problems solved
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AyushSNair/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AyushSNair/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AyushSNair/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +105,7 @@ Repo for all Leetcode problems solved
 | [0067-add-binary](https://github.com/AyushSNair/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AyushSNair/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushSNair/LeetCode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -276,6 +278,7 @@ Repo for all Leetcode problems solved
 | [0322-coin-change](https://github.com/AyushSNair/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushSNair/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/AyushSNair/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushSNair/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AyushSNair/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -431,6 +434,7 @@ Repo for all Leetcode problems solved
 | [0203-remove-linked-list-elements](https://github.com/AyushSNair/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/AyushSNair/LeetCode/tree/master/1013-fibonacci-number) |
@@ -621,4 +625,8 @@ Repo for all Leetcode problems solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
