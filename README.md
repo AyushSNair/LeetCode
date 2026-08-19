@@ -75,6 +75,7 @@ Repo for all Leetcode problems solved
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/AyushSNair/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushSNair/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushSNair/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -193,6 +194,7 @@ Repo for all Leetcode problems solved
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushSNair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushSNair/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AyushSNair/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushSNair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -234,6 +236,7 @@ Repo for all Leetcode problems solved
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/AyushSNair/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushSNair/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
@@ -367,6 +370,7 @@ Repo for all Leetcode problems solved
 | [0860-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSNair/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
