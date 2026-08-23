@@ -126,6 +126,7 @@ Repo for all Leetcode problems solved
 | [1510-stone-game-iv](https://github.com/AyushSNair/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/AyushSNair/LeetCode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushSNair/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushSNair/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -350,6 +351,7 @@ Repo for all Leetcode problems solved
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushSNair/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushSNair/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -371,6 +373,7 @@ Repo for all Leetcode problems solved
 | [0890-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSNair/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -670,6 +673,7 @@ Repo for all Leetcode problems solved
 | [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/AyushSNair/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
