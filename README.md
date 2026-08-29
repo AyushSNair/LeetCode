@@ -89,6 +89,7 @@ Repo for all Leetcode problems solved
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushSNair/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushSNair/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushSNair/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -262,6 +263,7 @@ Repo for all Leetcode problems solved
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushSNair/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushSNair/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushSNair/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushSNair/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -659,6 +661,7 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushSNair/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
 | ------- |
