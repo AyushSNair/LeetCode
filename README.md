@@ -60,6 +60,7 @@ Repo for all Leetcode problems solved
 | [0560-subarray-sum-equals-k](https://github.com/AyushSNair/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AyushSNair/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/AyushSNair/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -414,6 +415,7 @@ Repo for all Leetcode problems solved
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/AyushSNair/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
