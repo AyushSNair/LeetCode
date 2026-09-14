@@ -119,6 +119,7 @@ Repo for all Leetcode problems solved
 | [0486-predict-the-winner](https://github.com/AyushSNair/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AyushSNair/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0866-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AyushSNair/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -570,6 +571,7 @@ Repo for all Leetcode problems solved
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0866-rectangle-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0866-rectangle-overlap) |
 ## Merge Sort
 |  |
