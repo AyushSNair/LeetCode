@@ -166,6 +166,7 @@ Repo for all Leetcode problems solved
 | [0455-assign-cookies](https://github.com/AyushSNair/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AyushSNair/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -320,6 +321,7 @@ Repo for all Leetcode problems solved
 | [1510-stone-game-iv](https://github.com/AyushSNair/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushSNair/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushSNair/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -361,6 +363,7 @@ Repo for all Leetcode problems solved
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushSNair/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushSNair/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -384,6 +387,7 @@ Repo for all Leetcode problems solved
 | [1386-cinema-seat-allocation](https://github.com/AyushSNair/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
