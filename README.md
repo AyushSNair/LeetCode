@@ -21,6 +21,7 @@ Repo for all Leetcode problems solved
 | [0045-jump-game-ii](https://github.com/AyushSNair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AyushSNair/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AyushSNair/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AyushSNair/LeetCode/tree/master/0057-insert-interval) |
@@ -417,6 +418,7 @@ Repo for all Leetcode problems solved
 | ------- |
 | [0036-valid-sudoku](https://github.com/AyushSNair/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -432,6 +434,7 @@ Repo for all Leetcode problems solved
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AyushSNair/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AyushSNair/LeetCode/tree/master/0735-asteroid-collision) |
