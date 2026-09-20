@@ -29,6 +29,7 @@ Repo for all Leetcode problems solved
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushSNair/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushSNair/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushSNair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AyushSNair/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -340,6 +341,7 @@ Repo for all Leetcode problems solved
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AyushSNair/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/AyushSNair/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AyushSNair/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushSNair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/AyushSNair/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/AyushSNair/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -421,6 +423,7 @@ Repo for all Leetcode problems solved
 | [0048-rotate-image](https://github.com/AyushSNair/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSNair/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AyushSNair/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AyushSNair/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0835-image-overlap) |
@@ -554,6 +557,7 @@ Repo for all Leetcode problems solved
 | [0039-combination-sum](https://github.com/AyushSNair/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushSNair/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AyushSNair/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushSNair/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushSNair/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AyushSNair/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0756-pyramid-transition-matrix](https://github.com/AyushSNair/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -606,6 +610,7 @@ Repo for all Leetcode problems solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AyushSNair/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushSNair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AyushSNair/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AyushSNair/LeetCode/tree/master/0101-symmetric-tree) |
