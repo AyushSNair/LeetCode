@@ -370,6 +370,7 @@ Repo for all Leetcode problems solved
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushSNair/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushSNair/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AyushSNair/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -443,6 +444,7 @@ Repo for all Leetcode problems solved
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushSNair/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/AyushSNair/LeetCode/tree/master/2751-robot-collisions) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushSNair/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union Find
 |  |
