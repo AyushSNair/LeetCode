@@ -102,6 +102,7 @@ Repo for all Leetcode problems solved
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushSNair/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AyushSNair/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AyushSNair/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AyushSNair/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -276,6 +277,7 @@ Repo for all Leetcode problems solved
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushSNair/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushSNair/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AyushSNair/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AyushSNair/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -394,6 +396,7 @@ Repo for all Leetcode problems solved
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushSNair/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AyushSNair/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
