@@ -75,6 +75,7 @@ Repo for all Leetcode problems solved
 | [1046-max-consecutive-ones-iii](https://github.com/AyushSNair/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/AyushSNair/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/AyushSNair/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushSNair/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -298,6 +299,7 @@ Repo for all Leetcode problems solved
 | [0169-majority-element](https://github.com/AyushSNair/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushSNair/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushSNair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushSNair/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -436,6 +438,7 @@ Repo for all Leetcode problems solved
 | [0835-image-overlap](https://github.com/AyushSNair/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/AyushSNair/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/AyushSNair/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2737-row-with-maximum-ones](https://github.com/AyushSNair/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -629,6 +632,7 @@ Repo for all Leetcode problems solved
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushSNair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AyushSNair/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -659,6 +663,7 @@ Repo for all Leetcode problems solved
 | [0199-binary-tree-right-side-view](https://github.com/AyushSNair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/AyushSNair/LeetCode/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushSNair/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
@@ -689,6 +694,7 @@ Repo for all Leetcode problems solved
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/AyushSNair/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AyushSNair/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushSNair/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
