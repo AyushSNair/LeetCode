@@ -99,6 +99,7 @@ Repo for all Leetcode problems solved
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushSNair/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushSNair/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushSNair/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushSNair/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushSNair/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -473,6 +474,7 @@ Repo for all Leetcode problems solved
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushSNair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushSNair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -591,6 +593,7 @@ Repo for all Leetcode problems solved
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushSNair/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushSNair/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushSNair/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |
