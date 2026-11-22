@@ -377,6 +377,7 @@ Repo for all Leetcode problems solved
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AyushSNair/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/AyushSNair/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/AyushSNair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AyushSNair/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AyushSNair/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyushSNair/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushSNair/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
