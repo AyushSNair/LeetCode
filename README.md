@@ -112,6 +112,7 @@ Repo for all Leetcode problems solved
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Repo for all Leetcode problems solved
 | [3606-coupon-code-validator](https://github.com/AyushSNair/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/AyushSNair/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AyushSNair/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Repo for all Leetcode problems solved
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushSNair/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AyushSNair/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushSNair/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -738,4 +741,16 @@ Repo for all Leetcode problems solved
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AyushSNair/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
