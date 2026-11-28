@@ -113,6 +113,7 @@ Repo for all Leetcode problems solved
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/AyushSNair/LeetCode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AyushSNair/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +293,7 @@ Repo for all Leetcode problems solved
 | [3731-find-missing-elements](https://github.com/AyushSNair/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/AyushSNair/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushSNair/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AyushSNair/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -412,6 +414,7 @@ Repo for all Leetcode problems solved
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushSNair/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushSNair/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushSNair/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AyushSNair/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -430,6 +433,7 @@ Repo for all Leetcode problems solved
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushSNair/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/AyushSNair/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushSNair/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AyushSNair/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bucket Sort
 |  |
 | ------- |
